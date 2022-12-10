@@ -2,7 +2,7 @@
                  Mkmf - makefile editor (version 1.2a for X68000)
 
 		       original (MS-DOS) Syuichi Takahashi (staka@spec.co.jp)
-		       x68k Modified Awed
+		       x68k Modified Awed (NANKIN Network)
 
 
 　　本パッケージに含まれているファイルは下記の通りです。
